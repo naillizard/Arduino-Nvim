@@ -211,7 +211,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 MIT License - Do whatever you want with the code. No attribution required.
 
-## 🔗 Links
+<!-- References -->
 
 - [acli]: https://arduino.github.io/arduino-cli
 - [als]: https://github.com/arduino/arduino-language-server
